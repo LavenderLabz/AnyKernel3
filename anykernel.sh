@@ -44,7 +44,7 @@ ui_print "*********************************************";
 ui_print "*          SouthWest-NG Kernel              *";
 ui_print "*    (aka KangLab for the frustrated)       *";
 ui_print "*                                           *";
-ui_print "*    Powered by ReSukiSU | For Redmi Note 7 *";
+ui_print "*    Powered by BakaSU | For Redmi Note 7 *";
 ui_print "*********************************************";
 ui_print " ";
 
